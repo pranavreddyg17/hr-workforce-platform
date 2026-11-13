@@ -14,6 +14,10 @@ LaidBackHR.ai brings employee records, approvals, workforce analytics, and an AI
 
 The hosted application requires an authorized account. For a local walkthrough, use a disposable database and the development preview described below.
 
+## Augmentyx project context
+
+My volunteer work with Augmentyx focused on prototyping and validating an HR analytics dashboard for workforce movement, retention, and attrition review. The [Augmentyx workforce analytics walkthrough](docs/augmentyx-workforce-analytics.md) connects that work to the current application and gives reviewers a local validation path.
+
 ## Design decisions
 
 The Next.js application owns the UI and server-side domain services. PostgreSQL is the system of record; the employee portal and HR workspace read the same data. Azure hosts the application, document storage, search, and AI integrations.
