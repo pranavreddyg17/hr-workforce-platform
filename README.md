@@ -16,7 +16,7 @@ The hosted application requires an authorized account. For a local walkthrough, 
 
 ## Augmentyx project context
 
-My volunteer work with Augmentyx focused on prototyping and validating an HR analytics dashboard for workforce movement, retention, and attrition review. The [Augmentyx workforce analytics walkthrough](docs/augmentyx-workforce-analytics.md) connects that work to the current application and gives reviewers a local validation path.
+My work with Augmentyx focused on prototyping and validating an HR analytics dashboard for workforce movement, retention, and attrition review. The [Augmentyx workforce analytics walkthrough](docs/augmentyx-workforce-analytics.md) connects that work to the current application and gives reviewers a local validation path.
 
 ## Design decisions
 
