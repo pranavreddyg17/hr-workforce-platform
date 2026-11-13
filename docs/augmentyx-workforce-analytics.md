@@ -1,6 +1,6 @@
 # Augmentyx workforce analytics
 
-The Augmentyx volunteer project began with MVP discovery, local development setup, and cloud and AI service evaluation. After the scope shifted to HR analytics, the prototype focused on workforce KPIs, department breakdowns, and retention and attrition views. Development included checking metric calculations and data mappings against representative records, exercising filters, and refining how the dashboard handled missing or empty results.
+My work for Augmentyx began with MVP discovery, local development setup, and cloud and AI service evaluation. After the scope shifted to HR analytics, the prototype focused on workforce KPIs, department breakdowns, and retention and attrition views. Development included checking metric calculations and data mappings against representative records, exercising filters, and refining how the dashboard handled missing or empty results.
 
 ## Where the work connects to this repository
 
